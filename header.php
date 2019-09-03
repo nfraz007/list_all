@@ -22,12 +22,12 @@
       
       <ul class="right hide-on-med-and-down">
         <li><a href="admin" class="w3-hover-blue-grey">Admin Panel</a></li>
-      	<li><a href="http://nfraz.co.nf" class="w3-hover-blue-grey" target="_blank">Create by Nazish Fraz</a></li>
+      	<li><a href="http://nfraz.co.in" class="w3-hover-blue-grey" target="_blank">Create by Nazish Fraz</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
         <li><a href="admin" class="w3-hover-blue-grey">Admin Panel</a></li>
-      	<li><a href="http://nfraz.co.nf" class="w3-hover-blue-grey" target="_blank">Create by Nazish Fraz</a></li>
+      	<li><a href="http://nfraz.co.in" class="w3-hover-blue-grey" target="_blank">Create by Nazish Fraz</a></li>
       </ul>
 
       <a href="#" data-activates="nav-mobile" class="button-collapse w3-text-blue-grey"><i class="fa fa-bars"></i></a>

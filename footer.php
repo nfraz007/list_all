@@ -1,7 +1,7 @@
 <!-- <footer class="page-footer w3-white">
     <div class="footer-copyright w3-blue-grey">
       <div class="container">
-        Created by <a href="http://nfraz.co.nf" class="w3-text-white" target="_blank">Nazish Fraz</a>
+        Created by <a href="http://nfraz.co.in" class="w3-text-white" target="_blank">Nazish Fraz</a>
       </div>
     </div>
 </footer> -->
